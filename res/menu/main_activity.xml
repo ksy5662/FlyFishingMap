@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/MenuMapType"
+          android:icon="@drawable/device_access_location_found"
+          android:title="위치"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/MenuMapMove"
+          android:icon="@drawable/device_access_location_found"
+          android:title="이동"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/MenuLocationTracking"
+          android:icon="@drawable/device_access_location_found"
+          android:title="위치추적"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/MenuMapOverlay"
+          android:icon="@drawable/device_access_location_found"
+          android:title="오버레이"
+          android:showAsAction="ifRoom" />
+</menu>

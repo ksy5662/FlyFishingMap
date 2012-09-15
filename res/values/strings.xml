@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DaumMapLibrarySample_AndroidActivity!</string>
+    <string name="app_name">플라이낚시지도</string>
+    <string name="daum_map_sample">Start DaumMapSampleActivity</string>
+
+</resources>
